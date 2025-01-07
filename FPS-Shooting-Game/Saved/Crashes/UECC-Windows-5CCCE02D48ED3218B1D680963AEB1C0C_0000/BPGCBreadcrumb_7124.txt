@@ -1,0 +1,2 @@
+/Game/Blueprints/Weapons/BP_M416.Default__BP_M416_C
+/Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase_C

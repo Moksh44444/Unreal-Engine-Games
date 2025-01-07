@@ -1,0 +1,2 @@
+/Game/Blueprints/Players/BP_Counterterrorist.Default__BP_Counterterrorist_C
+/Game/Blueprints/Players/BP_PlayerBase.BP_PlayerBase_C

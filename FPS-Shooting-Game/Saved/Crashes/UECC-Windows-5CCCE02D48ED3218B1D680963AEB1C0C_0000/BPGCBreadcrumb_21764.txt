@@ -1,0 +1,2 @@
+/Game/Blueprints/Weapons/BP_AK47.Default__BP_AK47_C
+/Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase_C
