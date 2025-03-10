@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\itsmo\\onedrive\\desktop\\unreal\\decide_backup\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\decide\\module.decide.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\itsmo\\onedrive\\desktop\\unreal\\decide_backup\\intermediate\\build\\win64\\x64\\decide\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\itsmo\\onedrive\\desktop\\unreal\\decide_backup\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\decide\\definitions.decide.h",
+            "c:\\users\\itsmo\\onedrive\\desktop\\unreal\\decide_backup\\intermediate\\source\\decide.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

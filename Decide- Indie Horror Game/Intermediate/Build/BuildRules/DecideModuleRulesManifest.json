@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\itsmo\\OneDrive\\Desktop\\Unreal\\Decide_BackUp\\Intermediate\\Source\\Decide.Build.cs",
+		"C:\\Users\\itsmo\\OneDrive\\Desktop\\Unreal\\Decide_BackUp\\Intermediate\\Source\\Decide.Target.cs",
+		"C:\\Users\\itsmo\\OneDrive\\Desktop\\Unreal\\Decide_BackUp\\Intermediate\\Source\\DecideClient.Target.cs",
+		"C:\\Users\\itsmo\\OneDrive\\Desktop\\Unreal\\Decide_BackUp\\Intermediate\\Source\\DecideEditor.Target.cs",
+		"C:\\Users\\itsmo\\OneDrive\\Desktop\\Unreal\\Decide_BackUp\\Intermediate\\Source\\DecideServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
